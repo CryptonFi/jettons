@@ -1,6 +1,6 @@
 {
     "name": "USDT",
     "symbol": "USDT",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/CryptonFi/jettons/master/img/usdt.png",
     "description": "USDT jetton testnet"
 }

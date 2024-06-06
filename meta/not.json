@@ -1,6 +1,6 @@
 {
     "name": "NOT",
     "symbol": "NOT",
-    "image": "",
+    "image": "https://raw.githubusercontent.com/CryptonFi/jettons/master/img/not.png",
     "description": "NOT jetton testnet"
 }
